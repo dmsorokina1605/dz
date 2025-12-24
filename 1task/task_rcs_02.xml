@@ -1,0 +1,103 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<data>
+  <variant number="1">
+    <D>10e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>40e9</fmax>
+  </variant>
+  <variant number="2">
+    <D>20e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>30e9</fmax>
+  </variant>
+  <variant number="3">
+    <D>30e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>25e9</fmax>
+  </variant>
+  <variant number="4">
+    <D>100e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>10e9</fmax>
+  </variant>
+  <variant number="5">
+    <D>300e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>5e9</fmax>
+  </variant>
+  <variant number="6">
+    <D>0.5</D>
+    <fmin>10e6</fmin>
+    <fmax>900e6</fmax>
+  </variant>
+  <variant number="7">
+    <D>0.8</D>
+    <fmin>10e6</fmin>
+    <fmax>900e6</fmax>
+  </variant>
+  <variant number="8">
+    <D>1.0</D>
+    <fmin>10e6</fmin>
+    <fmax>600e6</fmax>
+  </variant>
+  <variant number="9">
+    <D>50e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>20e9</fmax>
+  </variant>
+  <variant number="10">
+    <D>5e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>80e9</fmax>
+  </variant>
+  <variant number="11">
+    <D>250e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>10e9</fmax>
+  </variant>
+  <variant number="12">
+    <D>70e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>25e9</fmax>
+  </variant>
+  <variant number="13">
+    <D>200e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>5e9</fmax>
+  </variant>
+  <variant number="14">
+    <D>400e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>7e9</fmax>
+  </variant>
+  <variant number="15">
+    <D>15e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>45e9</fmax>
+  </variant>
+  <variant number="16">
+    <D>25e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>35e9</fmax>
+  </variant>
+  <variant number="17">
+    <D>35e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>20e9</fmax>
+  </variant>
+  <variant number="18">
+    <D>55e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>15e9</fmax>
+  </variant>
+  <variant number="19">
+    <D>150e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>12e9</fmax>
+  </variant>
+  <variant number="20">
+    <D>350e-3</D>
+    <fmin>0.01e9</fmin>
+    <fmax>4e9</fmax>
+  </variant>
+</data>
